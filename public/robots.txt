@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /__forms.html
+
+Sitemap: https://phenomenal-dragon-4199f4.netlify.app/sitemap.xml
